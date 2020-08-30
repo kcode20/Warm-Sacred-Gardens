@@ -15,7 +15,7 @@ export default function Footer() {
 		<div
 			className='footer'
 			style={{
-				backgroundColor: '#301934',
+				backgroundColor: '#343a40',
 				color: 'white',
 			}}
 		>
