@@ -1,0 +1,28 @@
+.cover {
+	height: 85vh;
+	background: url(../images/herbs-about.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	position: relative;
+}
+
+.about p {
+	padding: 50px;
+	text-align: center;
+	font-family: 'Alata', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 40px;
+	letter-spacing: 0.05em;
+	line-height: 1.4em;
+	text-transform: none;
+}
+
+.about img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}

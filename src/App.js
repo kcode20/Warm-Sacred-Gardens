@@ -3,14 +3,11 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+import About from './pages/About';
 import './App.css';
 
 function Home() {
 	return <h2>Home</h2>;
-}
-
-function About() {
-	return <h2>About</h2>;
 }
 
 export default function App() {
