@@ -4,11 +4,8 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
 import About from './pages/About';
+import Home from './pages/Home';
 import './App.css';
-
-function Home() {
-	return <h2>Home</h2>;
-}
 
 export default function App() {
 	return (
